@@ -177,8 +177,8 @@ Asena.addCommand({pattern: 'textdevil ?(.*)', fromMe: wk, dontAddCommandList: tr
                   });
               };
 
-              await download(`${data}`, '/root/WhatsAsenaDuplicated/devil.jpg', async() => {                          
-                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/devil.jpg'), MessageType.image, { caption: 'Made by WhatsAsena' })
+              await download(`${data}`, '/root/Puse-Bota/devil.jpg', async() => {                          
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/Puse-Bota/devil.jpg'), MessageType.image, { caption: 'Made by WhatsAsena' })
               })
           } catch(err) { 
               console.log(err)
@@ -196,8 +196,8 @@ Asena.addCommand({pattern: 'textbear ?(.*)', fromMe: wk, dontAddCommandList: tru
                   });
               };
 
-              await download(`${data}`, '/root/WhatsAsenaDuplicated/bear.jpg', async() => {                          
-                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/bear.jpg'), MessageType.image, { caption: 'Made by WhatsAsena' })
+              await download(`${data}`, '/root/Puse-Bota/bear.jpg', async() => {                          
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/Puse-Bota/bear.jpg'), MessageType.image, { caption: 'Made by WhatsAsena' })
               })
           } catch(err) { 
               console.log(err)
@@ -224,8 +224,8 @@ Asena.addCommand({pattern: 'textwolf ?(.*)', fromMe: wk, dontAddCommandList: tru
                   });
               };
 
-              await download(`${data}`, '/root/WhatsAsenaDuplicated/wolf.jpg', async() => {                          
-                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/wolf.jpg'), MessageType.image, { caption: 'Made by WhatsAsena' })
+              await download(`${data}`, '/root/Puse-Bota/wolf.jpg', async() => {                          
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/Puse-Bota/wolf.jpg'), MessageType.image, { caption: 'Made by WhatsAsena' })
               })
           } catch(err) { 
               console.log(err)
@@ -243,8 +243,8 @@ Asena.addCommand({pattern: 'textneon ?(.*)', fromMe: wk, dontAddCommandList: tru
                   });
               };
 
-              await download(`${data}`, '/root/WhatsAsenaDuplicated/neon.jpg', async() => {                          
-                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/neon.jpg'), MessageType.image, { caption: 'Made by WhatsAsena' })
+              await download(`${data}`, '/root/Puse-Bota/neon.jpg', async() => {                          
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/Puse-Bota/neon.jpg'), MessageType.image, { caption: 'Made by WhatsAsena' })
               })
           } catch(err) { 
               console.log(err)
@@ -262,8 +262,8 @@ Asena.addCommand({pattern: 'text2neon ?(.*)', fromMe: wk, dontAddCommandList: tr
                   });
               };
 
-              await download(`${data}`, '/root/WhatsAsenaDuplicated/neon2.jpg', async() => {                          
-                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/neon2.jpg'), MessageType.image, { caption: 'Made by WhatsAsena' })
+              await download(`${data}`, '/root/Puse-Bota/neon2.jpg', async() => {                          
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/Puse-Bota/neon2.jpg'), MessageType.image, { caption: 'Made by WhatsAsena' })
               })
           } catch(err) { 
               console.log(err)
@@ -281,8 +281,8 @@ Asena.addCommand({pattern: 'textlight ?(.*)', fromMe: wk, dontAddCommandList: tr
                   });
               };
 
-              await download(`${data}`, '/root/WhatsAsenaDuplicated/li.jpg', async() => {                          
-                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/li.jpg'), MessageType.image, { caption: 'Made by WhatsAsena' })
+              await download(`${data}`, '/root/Puse-Bota/li.jpg', async() => {                          
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/Puse-Bota/li.jpg'), MessageType.image, { caption: 'Made by WhatsAsena' })
               })
           } catch(err) { 
               console.log(err)
@@ -300,8 +300,8 @@ Asena.addCommand({pattern: 'textjoker ?(.*)', fromMe: wk, dontAddCommandList: tr
                   });
               };
 
-              await download(`${data}`, '/root/WhatsAsenaDuplicated/joker.jpg', async() => {                          
-                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/joker.jpg'), MessageType.image, { caption: 'Made by WhatsAsena' })
+              await download(`${data}`, '/root/Puse-Bota/joker.jpg', async() => {                          
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/Puse-Bota/joker.jpg'), MessageType.image, { caption: 'Made by WhatsAsena' })
               })
           } catch(err) { 
               console.log(err)
@@ -328,8 +328,8 @@ Asena.addCommand({pattern: 'textninja ?(.*)', fromMe: wk, dontAddCommandList: tr
                   });
               };
 
-              await download(`${data}`, '/root/WhatsAsenaDuplicated/ninja.jpg', async() => {                          
-                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/ninja.jpg'), MessageType.image, { caption: 'Made by WhatsAsena' })
+              await download(`${data}`, '/root/Puse-Bota/ninja.jpg', async() => {                          
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/Puse-Bota/ninja.jpg'), MessageType.image, { caption: 'Made by WhatsAsena' })
               })
           } catch(err) { 
               console.log(err)
@@ -347,8 +347,8 @@ Asena.addCommand({pattern: 'textglitter ?(.*)', fromMe: wk, dontAddCommandList: 
                   });
               };
 
-              await download(`${data}`, '/root/WhatsAsenaDuplicated/tt.jpg', async() => {                          
-                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/tt.jpg'), MessageType.image, { caption: 'Made by WhatsAsena' })
+              await download(`${data}`, '/root/Puse-Bota/tt.jpg', async() => {                          
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/Puse-Bota/tt.jpg'), MessageType.image, { caption: 'Made by WhatsAsena' })
               })
           } catch(err) { 
               console.log(err)
@@ -366,8 +366,8 @@ Asena.addCommand({pattern: 'textbokeh ?(.*)', fromMe: wk, dontAddCommandList: tr
                   });
               };
 
-              await download(`${data}`, '/root/WhatsAsenaDuplicated/bkh.jpg', async() => {                          
-                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/bkh.jpg'), MessageType.image, { caption: 'Made by WhatsAsena' })
+              await download(`${data}`, '/root/Puse-Bota/bkh.jpg', async() => {                          
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/Puse-Bota/bkh.jpg'), MessageType.image, { caption: 'Made by WhatsAsena' })
               })
           } catch(err) { 
               console.log(err)
@@ -394,8 +394,8 @@ Asena.addCommand({pattern: 'textmarvel ?(.*)', fromMe: wk, dontAddCommandList: t
                   });
               };
 
-              await download(`${data}`, '/root/WhatsAsenaDuplicated/marvel.jpg', async() => {                          
-                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/marvel.jpg'), MessageType.image, { caption: 'Made by WhatsAsena' })
+              await download(`${data}`, '/root/Puse-Bota/marvel.jpg', async() => {                          
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/Puse-Bota/marvel.jpg'), MessageType.image, { caption: 'Made by WhatsAsena' })
               })
           } catch(err) { 
               console.log(err)
@@ -422,8 +422,8 @@ Asena.addCommand({pattern: 'text2marvel ?(.*)', fromMe: wk, dontAddCommandList: 
                   });
               };
 
-              await download(`${data}`, '/root/WhatsAsenaDuplicated/mar2.jpg', async() => {                          
-                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/mar2.jpg'), MessageType.image, { caption: 'Made by WhatsAsena' })
+              await download(`${data}`, '/root/Puse-Bota/mar2.jpg', async() => {                          
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/Puse-Bota/mar2.jpg'), MessageType.image, { caption: 'Made by WhatsAsena' })
               })
           } catch(err) { 
               console.log(err)
@@ -450,8 +450,8 @@ Asena.addCommand({pattern: 'textavengers ?(.*)', fromMe: wk, dontAddCommandList:
                   });
               };
 
-              await download(`${data}`, '/root/WhatsAsenaDuplicated/aven.jpg', async() => {                          
-                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/aven.jpg'), MessageType.image, { caption: 'Made by WhatsAsena' })
+              await download(`${data}`, '/root/Puse-Bota/aven.jpg', async() => {                          
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/Puse-Bota/aven.jpg'), MessageType.image, { caption: 'Made by WhatsAsena' })
               })
           } catch(err) { 
               console.log(err)
@@ -478,8 +478,8 @@ Asena.addCommand({pattern: 'textglitch ?(.*)', fromMe: wk, dontAddCommandList: t
                   });
               };
 
-              await download(`${data}`, '/root/WhatsAsenaDuplicated/tt2.jpg', async() => {                          
-                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/tt2.jpg'), MessageType.image, { caption: 'Made by WhatsAsena' })
+              await download(`${data}`, '/root/Puse-Bota/tt2.jpg', async() => {                          
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/Puse-Bota/tt2.jpg'), MessageType.image, { caption: 'Made by WhatsAsena' })
               })
           } catch(err) { 
               console.log(err)
@@ -506,8 +506,8 @@ Asena.addCommand({pattern: 'textgraf ?(.*)', fromMe: wk, dontAddCommandList: tru
                   });
               };
 
-              await download(`${data}`, '/root/WhatsAsenaDuplicated/ttgra.jpg', async() => {                          
-                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/ttgra.jpg'), MessageType.image, { caption: 'Made by WhatsAsena' })
+              await download(`${data}`, '/root/Puse-Bota/ttgra.jpg', async() => {                          
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/Puse-Bota/ttgra.jpg'), MessageType.image, { caption: 'Made by WhatsAsena' })
               })
           } catch(err) { 
               console.log(err)
@@ -534,8 +534,8 @@ Asena.addCommand({pattern: 'text2graf ?(.*)', fromMe: wk, dontAddCommandList: tr
                   });
               };
 
-              await download(`${data}`, '/root/WhatsAsenaDuplicated/t2gra.jpg', async() => {                          
-                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/t2gra.jpg'), MessageType.image, { caption: 'Made by WhatsAsena' })
+              await download(`${data}`, '/root/Puse-Bota/t2gra.jpg', async() => {                          
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/Puse-Bota/t2gra.jpg'), MessageType.image, { caption: 'Made by WhatsAsena' })
               })
           } catch(err) { 
               console.log(err)
@@ -562,8 +562,8 @@ Asena.addCommand({pattern: 'textlion ?(.*)', fromMe: wk, dontAddCommandList: tru
                   });
               };
 
-              await download(`${data}`, '/root/WhatsAsenaDuplicated/lion.jpg', async() => {                          
-                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/lion.jpg'), MessageType.image, { caption: 'Made by WhatsAsena' })
+              await download(`${data}`, '/root/Puse-Bota/lion.jpg', async() => {                          
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/Puse-Bota/lion.jpg'), MessageType.image, { caption: 'Made by WhatsAsena' })
               })
           } catch(err) { 
               console.log(err)
@@ -581,8 +581,8 @@ Asena.addCommand({pattern: 'text3neon ?(.*)', fromMe: wk, dontAddCommandList: tr
                   });
               };
 
-              await download(`${data}`, '/root/WhatsAsenaDuplicated/neon3.jpg', async() => {                          
-                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/neon3.jpg'), MessageType.image, { caption: 'Made by WhatsAsena' })
+              await download(`${data}`, '/root/Puse-Bota/neon3.jpg', async() => {                          
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/Puse-Bota/neon3.jpg'), MessageType.image, { caption: 'Made by WhatsAsena' })
               })
           } catch(err) { 
               console.log(err)
@@ -600,8 +600,8 @@ Asena.addCommand({pattern: 'textice ?(.*)', fromMe: wk, dontAddCommandList: true
                   });
               };
 
-              await download(`${data}`, '/root/WhatsAsenaDuplicated/ice.jpg', async() => {                          
-                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/ice.jpg'), MessageType.image, { caption: 'Made by WhatsAsena' })
+              await download(`${data}`, '/root/Puse-Bota/ice.jpg', async() => {                          
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/Puse-Bota/ice.jpg'), MessageType.image, { caption: 'Made by WhatsAsena' })
               })
           } catch(err) { 
               console.log(err)
@@ -628,8 +628,8 @@ Asena.addCommand({pattern: 'textspace ?(.*)', fromMe: wk, dontAddCommandList: tr
                   });
               };
 
-              await download(`${data}`, '/root/WhatsAsenaDuplicated/space.jpg', async() => {                          
-                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/space.jpg'), MessageType.image, { caption: 'Made by WhatsAsena' })
+              await download(`${data}`, '/root/Puse-Bota/space.jpg', async() => {                          
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/Puse-Bota/space.jpg'), MessageType.image, { caption: 'Made by WhatsAsena' })
               })
           } catch(err) { 
               console.log(err)
@@ -647,8 +647,8 @@ Asena.addCommand({pattern: 'textsmoke ?(.*)', fromMe: wk, dontAddCommandList: tr
                   });
               };
 
-              await download(`${data}`, '/root/WhatsAsenaDuplicated/smoke.jpg', async() => {                          
-                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/smoke.jpg'), MessageType.image, { caption: 'Made by WhatsAsena' })
+              await download(`${data}`, '/root/Puse-Bota/smoke.jpg', async() => {                          
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/Puse-Bota/smoke.jpg'), MessageType.image, { caption: 'Made by WhatsAsena' })
               })
           } catch(err) { 
               console.log(err)
@@ -662,8 +662,8 @@ Asena.addCommand({pattern: 'textglow ?(.*)', fromMe: wk, dontAddCommandList: tru
         });
     };
     var uri = encodeURI(match[1])
-    await download(`https://api.xteam.xyz/photooxy/neonlight?text=${uri}&APIKEY=da5fb2b73ae3e451`, '/root/WhatsAsenaDuplicated/glowttp.jpg', async() => {                          
-        await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/glowttp.jpg'), MessageType.image, { caption: 'Made by WhatsAsena' })
+    await download(`https://api.xteam.xyz/photooxy/neonlight?text=${uri}&APIKEY=da5fb2b73ae3e451`, '/root/Puse-Bota/glowttp.jpg', async() => {                          
+        await message.client.sendMessage(message.jid,fs.readFileSync('/root/Puse-Bota/glowttp.jpg'), MessageType.image, { caption: 'Made by WhatsAsena' })
     })
 }));
 Asena.addCommand({pattern: 'textfire ?(.*)', fromMe: wk, dontAddCommandList: true}, (async (message, match) => {
@@ -677,8 +677,8 @@ Asena.addCommand({pattern: 'textfire ?(.*)', fromMe: wk, dontAddCommandList: tru
                   });
               };
 
-              await download(`${data}`, '/root/WhatsAsenaDuplicated/tfire.jpg', async() => {                          
-                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/tfire.jpg'), MessageType.image, { caption: 'Made by WhatsAsena' })
+              await download(`${data}`, '/root/Puse-Bota/tfire.jpg', async() => {                          
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/Puse-Bota/tfire.jpg'), MessageType.image, { caption: 'Made by WhatsAsena' })
               })
           } catch(err) { 
               console.log(err)
@@ -696,8 +696,8 @@ Asena.addCommand({pattern: 'textharry ?(.*)', fromMe: wk, dontAddCommandList: tr
                   });
               };
 
-              await download(`${data}`, '/root/WhatsAsenaDuplicated/hp.jpg', async() => {                          
-                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/hp.jpg'), MessageType.image, { caption: 'Made by WhatsAsena' })
+              await download(`${data}`, '/root/Puse-Bota/hp.jpg', async() => {                          
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/Puse-Bota/hp.jpg'), MessageType.image, { caption: 'Made by WhatsAsena' })
               })
           } catch(err) { 
               console.log(err)
@@ -715,8 +715,8 @@ Asena.addCommand({pattern: 'text4neon ?(.*)', fromMe: wk, dontAddCommandList: tr
                   });
               };
 
-              await download(`${data}`, '/root/WhatsAsenaDuplicated/t4n.jpg', async() => {                          
-                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/t4n.jpg'), MessageType.image, { caption: 'Made by WhatsAsena' })
+              await download(`${data}`, '/root/Puse-Bota/t4n.jpg', async() => {                          
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/Puse-Bota/t4n.jpg'), MessageType.image, { caption: 'Made by WhatsAsena' })
               })
           } catch(err) { 
               console.log(err)
@@ -734,8 +734,8 @@ Asena.addCommand({pattern: 'textcemetery ?(.*)', fromMe: wk, dontAddCommandList:
                   });
               };
 
-              await download(`${data}`, '/root/WhatsAsenaDuplicated/cmth.jpg', async() => {                          
-                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/cmth.jpg'), MessageType.image, { caption: 'Made by WhatsAsena' })
+              await download(`${data}`, '/root/Puse-Bota/cmth.jpg', async() => {                          
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/Puse-Bota/cmth.jpg'), MessageType.image, { caption: 'Made by WhatsAsena' })
               })
           } catch(err) { 
               console.log(err)
@@ -753,8 +753,8 @@ Asena.addCommand({pattern: 'textcup ?(.*)', fromMe: wk, dontAddCommandList: true
                   });
               };
 
-              await download(`${data}`, '/root/WhatsAsenaDuplicated/cup.jpg', async() => {                          
-                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/cup.jpg'), MessageType.image, { caption: 'Made by WhatsAsena' })
+              await download(`${data}`, '/root/Puse-Bota/cup.jpg', async() => {                          
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/Puse-Bota/cup.jpg'), MessageType.image, { caption: 'Made by WhatsAsena' })
               })
           } catch(err) { 
               console.log(err)
