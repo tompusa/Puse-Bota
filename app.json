@@ -1,11 +1,11 @@
 {
-    "name": "WhatsAsenaDuplicated",
+    "name": "Tom-Pusa",
     "description": "WhatsAsena project - Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
     "logo": "https://i.hizliresim.com/6Bbj7i.jpg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/phaticusthiccy/WhatsAsenaDuplicated",
-    "website":   "https://t.me/phaticusthiccy",
-    "success_url": "https://t.me/AsenaSupport",
+    "repository": "https://github.com/tompusa/Puse-Bota",
+    "website":   "https://github.com/tompusa",
+    "success_url": "https://github.com/tompusa",
     "stack": "container",
     "env": {
         "ASENA_SESSION": {
