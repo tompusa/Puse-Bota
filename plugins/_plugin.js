@@ -61,7 +61,7 @@ Asena.addCommand({pattern: 'install ?(.*)', fromMe: true, desc: Lang.INSTALL_DES
         try {
             require('./' + plugin_name);
         } catch (e) {
-            fs.unlinkSync('/root/WhatsAsenaDuplicated/plugins/' + plugin_name + '.js')
+            fs.unlinkSync('/root/Puse-Bota/plugins/' + plugin_name + '.js')
             return await message.client.sendMessage(message.jid,Lang.INVALID_PLUGIN + ' ```' + e + '```', MessageType.text);
         }
         var DEG = { level: 5 }
