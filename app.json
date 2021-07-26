@@ -1,5 +1,6 @@
 {
-    "name": "Tom-Pusa",
+    "name": "m
+   m-Pusa",
     "description": "Tom-Pusa project - Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
     "logo": "https://telegra.ph/file/059c19f2dc77096c1cd55.jpg",
     "keywords": ["whatsapp", "userbot", "TomPusa", "RedexBot", "bot", "api", "ai"],
@@ -8,7 +9,7 @@
     "success_url": "https://tompusa.github.io/puse-bota",
     "stack": "container",
     "env": {
-        "TomPusa_SESSION": {
+        "ASENA_SESSION": {
             "description": "ඔබගේ ස්කෑන් කළ QR කේතය මෙහි අලවන්න. Type here yours Asena Session.",
             "required": true
         },
