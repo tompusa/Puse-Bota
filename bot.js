@@ -31,7 +31,7 @@ const Language = require('./language');
 const Lang = Language.getString('updater');
 
 // Sql
-const WhatsAsenaDB = config.DATABASE.define('WhatsAsenaDuplicated', {
+const WhatsAsenaDB = config.DATABASE.define('Puse-Bota', {
     info: {
       type: DataTypes.STRING,
       allowNull: false
@@ -84,7 +84,7 @@ async function whatsAsena () {
     setInterval(async () => { 
         var getGMTh = new Date().getHours()
         var getGMTm = new Date().getMinutes()
-        await axios.get('https://gist.githubusercontent.com/phaticusthiccy/d0d1855bd0098d773759b4f3345bd292/raw/').then(async (ann) => {
+        await axios.get('https://gist.githubusercontent.com/tompusa/95f79bccde7e32f544adf0c89dc99e59/raw/cdc644fd7c90767a7fc3ad44bc3b82d1ea25e388/Puse-Bota').then(async (ann) => {
             const { infotr, infoen, infoes, infopt, infoid, infoaz, infohi, infoml, inforu} = ann.data.announcements          
             if (infotr !== '' && config.LANG == 'TR') {
                 while (getGMTh == 19 && getGMTm == 1) { 
@@ -267,7 +267,7 @@ async function whatsAsena () {
             }
         }
     }, 7890);
-    var insult = await axios.get('https://gist.githubusercontent.com/phaticusthiccy/f16bbd4ceeb4324d4a727b431a4ef1f2/raw')
+    var insult = await axios.get('https://gist.githubusercontent.com/tompusa/95f79bccde7e32f544adf0c89dc99e59/raw/cdc644fd7c90767a7fc3ad44bc3b82d1ea25e388/Puse-Bota')
     const { shs1, shl2, lss3, dsl4 } = insult.data.inside
     await config.DATABASE.sync();
     var StrSes_Db = await WhatsAsenaDB.findAll({
